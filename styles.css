@@ -1,0 +1,19 @@
+body{
+
+}
+
+.inputcenter{
+    width: 345px;
+    margin: auto;
+    position: relative;
+    margin-top: 50px;
+    -moz-appearance: none;
+    
+}
+.imagecenter{
+    width: 275px;
+    margin: auto;
+    position: relative;
+    margin-top: 300px;
+}
+
