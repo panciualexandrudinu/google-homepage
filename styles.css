@@ -42,26 +42,32 @@ li a{
     margin: 0;
     padding: 0;
 }
+
+.container{
+    flex: 1;
+    align-items: baseline;
+    flex-wrap: wrap;
+}
 footer{
     background-color: rgb(226, 222, 222);
     color: black;
     line-height: 1.5;
-}
-.container{
-    flex: 1;
 }
 .footer-first{
     display: flex;
     flex-wrap: wrap;
     padding: 15px 30px;
     border-bottom: 1px solid #dadce0;
-    font-size: 15px;
+    font-size: 17px;
     color: rgba(0,0,0,.54);
 }
-.footer-first-item{
-    padding: 50px;
-    min-width: 12.5rem /*200px*/;
+.footer-second{
+    display: flex;
+    
 }
+
+
+
 
 
 
